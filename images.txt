@@ -1,1 +1,1 @@
-nginx
+bluenviron/mediamtx:latest
