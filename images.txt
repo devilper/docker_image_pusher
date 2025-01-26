@@ -1,1 +1,1 @@
-nginx
+greaterwms/greaterwms:front
