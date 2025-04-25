@@ -1,1 +1,1 @@
-timescale/timescaledb:latest-pg14
+n8nio/n8n
