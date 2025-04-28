@@ -1,2 +1,2 @@
-diygod/rsshub:2025-12-14
+diygod/rsshub:2024-12-14
 --platform=linux/arm64
