@@ -1,2 +1,3 @@
-diygod/rsshub:2024-12-14 
+diygod/rsshub:2024-12-14
+#支持指定架构
 --platform=linux/arm64
