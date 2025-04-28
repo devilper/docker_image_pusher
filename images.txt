@@ -1,1 +1,1 @@
---platform linux/arm64 glidea/zenfeed
+--platform linux/arm64 glidea/zenfeed-web
