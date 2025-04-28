@@ -1,1 +1,1 @@
-glidea/zenfeed-web
+glidea/zenfeed
