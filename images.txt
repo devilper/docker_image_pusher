@@ -1,1 +1,2 @@
-diygod/rsshub:2025-04-26
+diygod/rsshub:2025-12-14
+--platform=linux/arm64
