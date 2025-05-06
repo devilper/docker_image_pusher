@@ -1,2 +1,2 @@
 # --platform linux/arm64 glidea/zenfeed-web
-athomasson2/ebook2audiobook
+ghcr.io/swivid/f5-tts:main
