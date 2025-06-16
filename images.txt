@@ -1,2 +1,2 @@
 # --platform linux/arm64 glidea/zenfeed-web
-ghcr.io/swivid/f5-tts:main
+ghcr.io/autowarefoundation/autoware:universe-devel
