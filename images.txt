@@ -1,2 +1,2 @@
 # --platform linux/arm64 glidea/zenfeed-web
-ghcr.io/autowarefoundation/autoware:universe
+ghcr.io/autowarefoundation/autoware:universe-devel-cuda
