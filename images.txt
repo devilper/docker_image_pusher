@@ -1,2 +1,2 @@
 # --platform linux/arm64 glidea/zenfeed-web
-ros1-noetic-desktop:latest
+osrf/ros:noetic-desktop-full
