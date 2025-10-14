@@ -1,2 +1,2 @@
 # --platform linux/arm64 glidea/zenfeed-web
-postgres:15
+docker.io/library/python:3.11.3-slim-bullseye
