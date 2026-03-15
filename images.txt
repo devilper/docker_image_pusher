@@ -1,2 +1,2 @@
 # --platform linux/arm64 glidea/zenfeed-web
-docker.io/library/python:3.11.3-slim-bullseye
+emqx/emqx:latest
