@@ -1,3 +1,2 @@
 # --platform linux/arm64 glidea/zenfeed-web
-redis:7-alpine
-eclipse-mosquitto:2
+nats:latest
