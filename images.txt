@@ -1,2 +1,4 @@
 # --platform linux/arm64 glidea/zenfeed-web
-nats:latest
+nats:alpine
+postgres:15-alpine
+temporalio/auto-setup:latest
