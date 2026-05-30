@@ -1,7 +1,3 @@
 # --platform linux/arm64 glidea/zenfeed-web
-nats:2.10-alpine
-postgres:15-alpine
-temporalio/auto-setup:1.25.2
-natsio/prometheus-nats-exporter:0.16.0
-prom/prometheus:v2.54.1
-grafana/grafana:11.2.2
+grafana/k6:0.49.0
+natsio/nats-box:0.14.0
